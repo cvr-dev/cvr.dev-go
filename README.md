@@ -1,5 +1,7 @@
 # Go API for cvr.dev
 
+![Tests](https://github.com/cvr-dev/cvr.dev-go/actions/workflows/test.yml/badge.svg?branch=main)
+
 The official [cvr.dev](https://cvr.dev/) Go client library.
 
 [cvr.dev](https://cvr.dev/) is a web service that maintains an updated cache of the Danish CVR
