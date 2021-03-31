@@ -11,7 +11,7 @@ type Produktionsenhed struct {
 	DataAdgang              int                                      `json:"dataAdgang"`
 	DeltagerRelation        []ProduktionsenhedDeltagerRelation       `json:"deltagerRelation"`
 	ElektroniskPost         []ProduktionsenhedKontaktoplysning       `json:"elektroniskPost"`
-	Enhedsnummer            int                                      `json:"enhedsnummer"`
+	Enhedsnummer            int                                      `json:"enhedsNummer"`
 	Enhedstype              string                                   `json:"enhedstype"`
 	FejlBeskrivelse         *string                                  `json:"fejlBeskrivelse"`
 	FejlRegistreret         bool                                     `json:"fejlRegistreret"`
