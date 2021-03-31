@@ -218,9 +218,9 @@ func TestCVRVirksomhedByCVRNumreResponses(t *testing.T) {
 	}
 }
 
-// TestCVRVirksomhedByNavnRNumreResponses verifies that expected HTTP status
+// TestCVRVirksomhedByNavnResponses verifies that expected HTTP status
 // codes are handled, and that returned data is deserialized as expected.
-func TestCVRVirksomhedByNavnRNumreResponses(t *testing.T) {
+func TestCVRVirksomhedByNavnResponses(t *testing.T) {
 	tests := map[string]struct {
 		virksomheder []cvr.Virksomhed
 		statusCode   int
