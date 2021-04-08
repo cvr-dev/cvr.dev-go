@@ -96,8 +96,12 @@ $ go test ./...
 
 ## Alternatives
 
-Alternatives to cvr.dev include:
+We want you to have the best experience possible; if for some reason didn't find
+what you were looking for at cvr.dev, reach out to us at kontakt@cvr.dev.
+
+If you just want to check out the market, these are potential alternatives:
 
 - [Virk's official integration](https://datacvr.virk.dk/data/cvr-hj%C3%A6lp/indgange-til-cvr/system-til-system-adgang)
 - [cvrapi.dk](https://cvrapi.dk)
 - [risika.dk](https://risika.dk)
+- [eanapi.dk](https://eanapi.dk)
